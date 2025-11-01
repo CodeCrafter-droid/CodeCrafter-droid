@@ -42,9 +42,9 @@
 
 ### 💬 Let’s Connect
 <p align="center">
-  <a href="Linkedin.com/in/sahas-singh-91470021a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="singh.sahasofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="Github.com/CodeCrafter-droid" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://Linkedin.com/in/sahas-singh-91470021a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:singh.sahasofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://Github.com/CodeCrafter-droid" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
 
 ---
